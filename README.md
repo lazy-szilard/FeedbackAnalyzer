@@ -25,7 +25,7 @@ This Python tool performs sentiment analysis on textual data stored in a CSV fil
 ## Installation and Usage
 
 ```bash
-git clone https://github.com/your-username/YourSentimentAnalysisTool.git
-cd YourSentimentAnalysisTool
-python sentiment_analyzer.py
+git clone https://github.com/lazy-szilard/FeedbackAnalyzer.git
+cd FeedbackAnalyzer
+python main.py
 
